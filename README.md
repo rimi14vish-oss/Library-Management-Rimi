@@ -24,10 +24,10 @@ The system performs basic operations through Python using MySQL Connector.
 ```
 Library-Management-System/
 │
-├── CS 12th Lib Management.py      # Main Python Program
+├── School Lib Management.py      # Main Python Program
 ├── README.md                      # Project Documentation
 ├── database.sql                   # SQL table creation script
-│
+├── Project_Report.txt             # Detailed report
 ├── /screenshots                   # Execution screenshots
 ```
 
