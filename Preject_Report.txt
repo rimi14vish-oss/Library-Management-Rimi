@@ -2,8 +2,8 @@
 # PROJECT REPORT
 School Library Management System (Python + MySQL)
 
-Student Name: Rimi
-Class: 12
+Student Name: Rimi Vishwakarma
+Registration Number: 25BCE11228
 Subject: Computer Science
 School: [add if needed]
 
