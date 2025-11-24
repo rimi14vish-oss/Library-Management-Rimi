@@ -8,14 +8,14 @@ The system performs basic operations through Python using MySQL Connector.
 
 ## **Features Implemented**
 
--> Add new books to the library
--> Remove books using Book ID
--> Issue books to students
--> Return submitted books
--> Display all available books
--> Display all issued books
--> Input validation & error-handling
--> Real-time updates to MySQL database
+* Add new books to the library
+* Remove books using Book ID
+* Issue books to students
+* Return submitted books
+* Display all available books
+* Display all issued books
+* Input validation & error-handling
+* Real-time updates to MySQL database
 
 ---
 
