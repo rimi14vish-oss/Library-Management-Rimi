@@ -29,7 +29,6 @@ Library-Management-System/
 ├── database.sql                   # SQL table creation script
 │
 ├── /screenshots                   # Execution screenshots
-└── /recordings                    # Optional demo recordings
 ```
 
 ---
