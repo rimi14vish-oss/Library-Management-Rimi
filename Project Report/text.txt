@@ -93,47 +93,28 @@ s_name	VARCHAR	Student name
 s_class	VARCHAR	Student class
 
 ## 7. Results & Analysis
-
 After implementation, the system successfully performed:
-
 Efficient book tracking
-
 Smooth issuing and returning
-
 Instant updates to quantities
-
 Accurate record maintenance
-
 Zero data inconsistency
-
 The project demonstrates strong understanding of both Python and SQL connectivity.
 
-9. Conclusion
-
+## 8. Conclusion
 This project successfully automates library operations and reduces dependency on manual record-keeping.
 
 It demonstrates:
-
 Python’s capability for database applications
-
 MySQL integration
-
 Menu-driven programming
-
 Error handling and validation
-
 The system is user-friendly, fast, and reliable. Additional features like GUI and due-date calculation can be added in the future.
 
-10. Future Enhancements
-
+## 9. Future Enhancements
 The project can be extended by adding:
-
 GUI using Tkinter/PyQt
-
 Due-date & fine calculation
-
 Admin login system
-
 Exporting reports to PDF
-
 Search functionality
