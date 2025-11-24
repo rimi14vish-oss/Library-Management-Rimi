@@ -148,12 +148,6 @@ All screenshots of program execution are stored inside the `/screenshots` folder
 
 ---
 
-## **Project Report**
-
-A detailed written report is included separately as required by the evaluation guidelines.
-
----
-
 ## **Developed By**
 
 **Rimi Vishwakarma**
